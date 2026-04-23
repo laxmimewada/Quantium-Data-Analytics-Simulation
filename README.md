@@ -39,7 +39,7 @@ The objective was to analyze customer purchasing behaviour and evaluate the effe
 - Families and premium customers drive most sales
 - Customer traffic is the main driver of growth
 - Store 77 showed strong uplift, Store 88 showed no impact
-
+ 
 ---
 
 ## 📈 Recommendations
